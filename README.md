@@ -21,7 +21,8 @@
 |joystick|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/joystick)|通用摇杆组件|
 ## 插件
 - 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools)
-- 运行时查看节点树 [传送门](http://forum.cocos.com/t/chrome-creator/55669)
+- 运行时查看节点树Chrome插件版 [传送门](http://forum.cocos.com/t/chrome-creator/55669)
+- 运行时查看节点树Creator插件版 [传送门](http://forum.cocos.com/t/cc-inspector/67227)
 - 编辑器内查看文档 [传送门](http://forum.cocos.com/t/creator/61830)
 - 编辑器内看知乎233 [传送门](https://github.com/potato47/ccc-plugin-boring)
 ## 资源
