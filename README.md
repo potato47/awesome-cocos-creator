@@ -11,6 +11,7 @@
 |get47|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/get47)||一个原创消除类小游戏|
 |start-catcher|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/star-catcher)||Cocos Creator文档摘星星示例游戏typescript版|
 |babykylin_scmj|[麒麟子](https://github.com/babykylin)|[源码](https://github.com/babykylin/babykylin_scmj)||幼麟棋牌，比较完整的商业棋牌源码，想当初我第一份兼职就是抄了好多里面的代码。不过现在看代码有点丑。。。|
+|beimi|-|[源码](https://gitee.com/beimigame/beimi)||贝密棋牌集合，包含麻将、斗地主、德州|
 ## 教程
 - cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial)
 > Cocos Creator 2.0 教程，更新中
