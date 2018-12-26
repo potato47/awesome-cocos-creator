@@ -1,20 +1,22 @@
 # Awesome Cocos Creator
 ## 游戏
-|名称|作者|源码|试玩|备注|
-|---|----|----|----|---|
-|jump|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/jump)|[在线试玩](https://potato47.github.io/game/jump)|微信跳一跳复刻|
-|so-many-games|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/so-many-games)|[在线试玩](https://potato47.github.io/so-many-games/desktop)|竖屏小游戏合集|
-|brick-breaker|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/brick-breaker-master)||打砖块|
-|nhwc-client|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/nhwc-client)||毕业设计，多人联机你画我猜|
-|try-to-hug|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/try-to-hug)||参加2018年厦门CiGA48小时游戏制作比赛作品|
-|reversi-online|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/reversi-online)||基于socket.io多人房间匹配黑白棋|
-|get47|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/get47)||一个原创消除类小游戏|
-|start-catcher|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/star-catcher)||Cocos Creator文档摘星星示例游戏typescript版|
-|babykylin_scmj|[麒麟子](https://github.com/babykylin)|[源码](https://github.com/babykylin/babykylin_scmj)||幼麟棋牌，比较完整的商业棋牌源码，想当初我第一份兼职就是抄了好多里面的代码。不过现在看代码有点丑。。。|
-|beimi|-|[源码](https://gitee.com/beimigame/beimi)||贝密棋牌集合，包含麻将、斗地主、德州|
+|名称|源码|试玩|备注|
+|---|----|----|---|
+|jump|[源码](https://github.com/potato47/jump)|[在线试玩](https://potato47.github.io/game/jump)|微信跳一跳复刻|
+|so-many-games|[源码](https://github.com/potato47/so-many-games)|[在线试玩](https://potato47.github.io/so-many-games/desktop)|竖屏小游戏合集|
+|brick-breaker|[源码](https://github.com/potato47/brick-breaker-master)||打砖块|
+|nhwc-client|[源码](https://github.com/potato47/nhwc-client)||毕业设计，多人联机你画我猜|
+|try-to-hug|[源码](https://github.com/potato47/try-to-hug)||参加2018年厦门CiGA48小时游戏制作比赛作品|
+|reversi-online|[源码](https://github.com/potato47/reversi-online)||基于socket.io多人房间匹配黑白棋|
+|get47|[源码](https://github.com/potato47/get47)||一个原创消除类小游戏|
+|start-catcher|[源码](https://github.com/potato47/star-catcher)||Cocos Creator文档摘星星示例游戏typescript版|
+|babykylin_scmj|[源码](https://github.com/babykylin/babykylin_scmj)||幼麟棋牌，比较完整的商业棋牌源码|
+|beimi|[源码](https://gitee.com/beimigame/beimi)||贝密棋牌集合，包含麻将、斗地主、德州|
+|Physical-Pinball|[源码](https://gitee.com/beimigame/beimi)|[在线试玩](https://www.super-cell.club/physical-pinball/)|Cocos Creator 2.0.1 + Javascript 物理弹球|
 ## 教程
 - cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial)
 > Cocos Creator 2.0 教程，更新中
+- Cocos Creator插件视频教程 https://forum.cocos.com/t/cocos-creator/69105
 ## 组件
 |名称|作者|源码|备注|
 |---|----|----|---|
