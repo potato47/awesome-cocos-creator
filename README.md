@@ -13,6 +13,7 @@
 |babykylin_scmj|[源码](https://github.com/babykylin/babykylin_scmj)||幼麟棋牌，比较完整的商业棋牌源码|
 |beimi|[源码](https://gitee.com/beimigame/beimi)||贝密棋牌集合，包含麻将、斗地主、德州|
 |Physical-Pinball|[源码](https://gitee.com/beimigame/beimi)|[在线试玩](https://www.super-cell.club/physical-pinball/)|Cocos Creator 2.0.1 + Javascript 物理弹球|
+|CCFish|[源码](https://github.com/fylz1125/CCFish)||单机版捕鱼达人，TS|
 ## 教程
 - cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial)
 > Cocos Creator 2.0 教程，更新中
