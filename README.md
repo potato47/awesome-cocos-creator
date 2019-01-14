@@ -19,9 +19,8 @@
 > Cocos Creator 2.0 教程，更新中
 - Cocos Creator插件视频教程 https://forum.cocos.com/t/cocos-creator/69105
 ## 组件
-|名称|作者|源码|备注|
-|---|----|----|---|
-|joystick|[potato47](https://github.com/potato47)|[源码](https://github.com/potato47/joystick)|通用摇杆组件|
+- 摇杆 https://github.com/potato47/joystick
+- 日历组件 https://forum.cocos.com/t/topic/72433
 ## 插件
 - 浏览器实时查看节点树，节点属性，组件，内存等信息 [传送门](https://github.com/potato47/ccc-devtools)
 - 热更新可视化面板 [传送门](http://forum.cocos.com/t/manifest/44397) [github](https://github.com/tidys/CocosCreatorPlugins/tree/master/packages/hot-update-tools)
