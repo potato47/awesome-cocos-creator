@@ -32,6 +32,7 @@
 - FairyGUI:独立UI编辑器 [官网](http://www.fairygui.com/)
 - 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial)
 - 一个简单的游戏框架 [传送门](https://huangx916.github.io/2019/01/01/gameplayframework/) [github](https://github.com/huangx916/GameplayFramework)
+- cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base)
 
 ## 论坛精华
 - Cocos Creator—最佳构建部署实践 [传送门](http://forum.cocos.com/t/cocos-creator/54203/52)
