@@ -28,12 +28,13 @@
 - 运行时查看节点树Creator插件版 [传送门](http://forum.cocos.com/t/cc-inspector/67227)
 - 编辑器内查看文档 [传送门](http://forum.cocos.com/t/creator/61830)
 - 编辑器内看知乎233 [传送门](https://github.com/potato47/ccc-plugin-boring)
-## 资源
+## 解决方案
 - FairyGUI:独立UI编辑器 [官网](http://www.fairygui.com/)
 - 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial)
 - 一个简单的游戏框架 [传送门](https://huangx916.github.io/2019/01/01/gameplayframework/) [github](https://github.com/huangx916/GameplayFramework)
 - cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base)
 - 微信小游戏声明文件d.ts [传送门](https://github.com/peony-ma/wxOpenDataContext)
+- 背景模糊效果2.1.1+ [传送门](https://github.com/wheatup/cocos-creator-blur-mask)
 
 ## 论坛精华
 - 网上资源汇总 [https://forum.cocos.com/t/creator/44782](https://forum.cocos.com/t/creator/44782)
