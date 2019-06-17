@@ -35,6 +35,7 @@
 - cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，热更新实现机制，定时器，事件系统，tween动画工具, 音效播放，常用控件如recycle listview，recycle scrollview等 [传送门](https://github.com/caochao/cocos_creator_proj_base)
 - 微信小游戏声明文件d.ts [传送门](https://github.com/peony-ma/wxOpenDataContext)
 - 背景模糊效果2.1.1+ [传送门](https://github.com/wheatup/cocos-creator-blur-mask)
+- MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
 
 ## 论坛精华
 - 网上资源汇总 [https://forum.cocos.com/t/creator/44782](https://forum.cocos.com/t/creator/44782)
