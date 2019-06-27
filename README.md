@@ -36,6 +36,7 @@
 - 微信小游戏声明文件d.ts [传送门](https://github.com/peony-ma/wxOpenDataContext)
 - 背景模糊效果2.1.1+ [传送门](https://github.com/wheatup/cocos-creator-blur-mask)
 - MVVM库，数据UI绑定 [github](https://github.com/wsssheep/cocos_creator_mvvm_tools) [论坛](https://forum.cocos.com/t/ui-mvvm/78821)
+- 全平台横竖屏动态切换 [论坛](https://forum.cocos.com/t/topic/79780)
 
 ## 论坛精华
 - 网上资源汇总 [https://forum.cocos.com/t/creator/44782](https://forum.cocos.com/t/creator/44782)
