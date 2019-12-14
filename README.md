@@ -19,6 +19,7 @@
 - cocos-creator-tutorial [地址](https://github.com/potato47/cocos-creator-tutorial)
 > Cocos Creator 2.0 教程，更新中
 - Cocos Creator插件视频教程 https://forum.cocos.com/t/cocos-creator/69105
+- Cosos Creator 2.2.X shader 教程(入门篇) https://forum.cocos.org/t/cosos-creator-2-2-x-shader/87180
 ## 组件
 - 摇杆 https://github.com/potato47/joystick
 - 日历组件 https://forum.cocos.com/t/topic/72433
