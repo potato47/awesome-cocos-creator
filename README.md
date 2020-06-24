@@ -30,6 +30,8 @@
 - 运行时查看节点树Creator插件版 [传送门](http://forum.cocos.com/t/cc-inspector/67227)
 - 编辑器内查看文档 [传送门](http://forum.cocos.com/t/creator/61830)
 - 编辑器内看知乎233 [传送门](https://github.com/potato47/ccc-plugin-boring)
+- js支持函数跳转，VS Code 插件 [传送门](https://github.com/potato47/vscode-cocos-creator-js)
+- 快速打开scene、prefab，Cocos Creator 插件 [传送门](https://github.com/potato47/cocos-creator-quick-open-x)
 ## 解决方案
 - FairyGUI:独立UI编辑器 [官网](http://www.fairygui.com/)
 - 常用Demo集合 [传送门](https://github.com/Leo501/CocosCreatorTutorial)
