@@ -46,6 +46,7 @@
 - ScrollView 性能优化 [官方公众号](https://mp.weixin.qq.com/s/XjjwbmCzTQZd6snN82Q8jA)
 - 2.3.0 场景转场特效 [传送门](https://github.com/2youyou2/transitions)
 - 2.3+ Shader示例&教程[传送门](https://github.com/zhitaocai/CocosCreatorShaderEffectDemo)
+- Cocos Creator 微信小游戏平台启动与包体优化 [论坛](https://forum.cocos.org/t/cocos-creator-50/94999)
 
 ## 论坛精华
 - 网上资源汇总 [https://forum.cocos.com/t/creator/44782](https://forum.cocos.com/t/creator/44782)
