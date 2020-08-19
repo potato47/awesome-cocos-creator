@@ -49,6 +49,8 @@
 - Cocos Creator 微信小游戏平台启动与包体优化 [论坛](https://forum.cocos.org/t/cocos-creator-50/94999)
 - Cocos Creator 一种「无侵入」资源加密方案 [传送门](https://forum.cocos.org/t/cocos-creator/95492)
 - 【乐府】使用CocosCreator模拟书本翻页效果 [传送门](https://forum.cocos.org/t/cocoscreator/96358)
+- 流体渲染，液体效果 [传送门](https://forum.cocos.org/t/topic/97137)
+- 雷达图 [传送门](https://forum.cocos.org/t/cocos-creator/97187)
 
 ## 论坛精华
 - 网上资源汇总 [https://forum.cocos.com/t/creator/44782](https://forum.cocos.com/t/creator/44782)
