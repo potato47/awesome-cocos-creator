@@ -62,6 +62,22 @@
 - 自定义渲染合批之自定义顶点格式 [传送门](https://forum.cocos.org/t/demo/95087)
 - 解读 Cocos Creator 引擎：让实例化快 50% 的原理，“拖节点”性能会更好吗？[传送门](https://forum.cocos.org/t/cocos-creator-50/92957)
 
+## 荣耀讲师系列
+- 第一期 —— “我的 Cocos Creator 游戏开发实践”
+   - KUOKUO众享 —— Cocos Creator 教程总览 https://forum.cocos.org/t/cocos/83536/23
+   - 潘旭 —— 零基础入门系列 https://forum.cocos.org/t/cocos/83536/25
+   - 一枚小工 —— Cocos Creator 小游戏开发 https://forum.cocos.org/t/cocos/83536/9
+   - ClearX —— 3D赛车游戏实现，demoe分享 https://forum.cocos.org/t/cocos/83536/15
+   - ClearX —— 如何让绳子关节组件Rope与其他物体产生碰撞产生缠绕的效果 https://forum.cocos.org/t/cocos/83536/16
+   - 天煞魔猎手 —— Cocos Creator Android 启动优化 https://forum.cocos.org/t/cocos/83536/3
+   - 白玉无冰 —— 用摄像机实现残影幻影拖尾效果 https://forum.cocos.org/t/cocos/83536/24
+   - 楚游香 —— 给项目瘦身，Cocos Creator 项目资源清理工具-AssetCleaner使用教程 https://forum.cocos.org/t/cocos/83536/20
+   - 蟹老板 —— 小游戏“单挑篮球”开发过程分享 https://forum.cocos.org/t/cocos/83536/21
+   - 宝爷 —— Cocos Creator 通用框架设计——网络 https://forum.cocos.org/t/cocos/83536/26
+   - ituuz —— Cocos Creator 实现战旗类游戏<火焰纹章>移动范围效果 https://forum.cocos.org/t/cocos/83536/18
+ - 第二期 TODO
+ - 第三期 TODO
+
 ## 博客
 - ifeel https://www.ifeelgame.net/
 - BigBear https://blog.csdn.net/zzx023/article/category/8089355
